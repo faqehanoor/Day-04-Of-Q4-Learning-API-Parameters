@@ -1,18 +1,18 @@
-## API Parameters Documentation
+## 🙌 API Parameters Documentation
 
-## Introduction
+## 🌎Introduction
 This repository contains the FastAPI project for managing and interacting with items via various API parameters. The API allows you to query items, fetch item details, and update item information using different types of HTTP requests.
 
-## Requirements
+## ✔ Requirements
 Before running the application, make sure you have the following installed:
 
-## Python 3.7+
+## ✅ Python 3.7+
 
-## FastAPI
+## ✅ FastAPI
 
-## Uvicorn
+## ✅ Uvicorn
 
-## Pydantic
+## ✅ Pydantic
 
 You can install the required dependencies by running:
 
@@ -107,7 +107,7 @@ This will start the server at http://127.0.0.1:8000. You can access the interact
 
 http://127.0.0.1:8000/docs
 
-## Conclusion
+## ➡ Conclusion
 
 This FastAPI project is designed to demonstrate how to use API parameters for CRUD operations on items. You can extend the functionality to suit your needs, such as adding authentication, more complex queries, or connecting to a database.
 
